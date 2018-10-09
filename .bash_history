@@ -90,3 +90,7 @@ yacc -d yacc2
 gcc -o text1 lex.yy.c y.tab.c
 ./text1
 clear
+ls
+vi yacc2
+clear
+exit
