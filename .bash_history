@@ -523,3 +523,276 @@ yacc -d yacc9.y
 gcc -o text1 lex.yy.c y.tab.c
 clear
 ./text1
+clear
+lex lex_9.l
+yacc -d yacc9.y
+gcc -o text1 lex.yy.c y.tab.c
+clear
+./text1
+clear
+lex lex_9.l
+yacc -d yacc9.y
+gcc -o text1 lex.yy.c y.tab.c
+clear
+./text1
+clear
+lex lex_9.l
+yacc -d yacc9.y
+gcc -o text1 lex.yy.c y.tab.c
+clear
+./text1
+clear
+lex lex_9.l
+yacc -d yacc9.y
+gcc -o text1 lex.yy.c y.tab.c
+clear
+
+clear
+./text1
+clear
+vi lex_10.l
+vi yacc10.y
+clear
+lex lex_10.l
+yacc -d yacc10.y
+gcc -o text2 lex.yy.c y.tab.c
+./text2
+clear
+./text2
+clear
+yacc -d yacc10.y
+lex lex_10.l
+yacc -d yacc10.y
+gcc -o text2 lex.yy.c y.tab.c
+clear
+./text2
+clear
+./text2
+clear
+exit
+cd coding/
+clear
+g++ main.cpp
+clear
+./a.out
+clear
+./a.out
+clear
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+cd coding/
+clear
+g++ main.cpp
+./a.out
+clear
+./a.out
+g++ main.cpp
+./a.out
+clar
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+./a.out
+cd coding/
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+cd coding/
+./a.out
+g++ main.cpp
+./a.out
+
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+./a.out
+clear
+g++ main.cpp
+clear
+g++ main.cpp
+./a.out
+clear
+./a.out
+clear
+g++ main.cpp
+clear
+./a.out
+clear
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+cd coding/
+clear
+g++ main.
+./a.out
+clear
+cd coding/
+cls
+clear
+g++ main.cpp
+cd coding/
+cls
+clear
+g++ main.cpp
+./a.exe
+clear
+./a.out
+cls
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+cd coding/
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+CLEAR
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+clear
+./a.out
+clear
+g++ main.cpp
+./a.out
+g++ main.cpp
+clear
+g++ main.cpp
+cleR
+CLEAR
+clear
+./a.out
+g++ main.cpp
+./a.out
+g++ main.cpp
+./a.out
+clear
+g++ main.cpp
+./a.out
+clear
+./a.out
+clear
+g++ blowfish.cpp
+cls
+clear
+vi blowfish.cpp
+vi prog.cpp
+vi blowfish.cpp
+vi blowfish.h
+vi blowfish.cpp
+vi blowfish.h
+clear
+g++ main.cpp
+exit
